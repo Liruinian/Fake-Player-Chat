@@ -1,0 +1,10 @@
+name: FakePlayerChat
+main: com.timlrn2016.fakeplayerchat.Main
+version: 1.0
+author: Tim_LRN2016
+commands: 
+  fakechat:
+    permission: "fakechat.use"
+    usage: /<command> [help]
+    default: op
+    description: A plugin can fake a player or chat
